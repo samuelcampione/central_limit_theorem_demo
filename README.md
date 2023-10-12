@@ -35,8 +35,11 @@ As n approaches infinity, the distribution of the normalized sample means approa
 - Lindeberg, Lévy, and Feller (amongst others) in the early 1900s and 1930s worked on refinements, generalizations, and proofs of the CLT under various conditions, setting a strong mathematical foundation for our modern day CLT
 
 
-
 <br>
 
 The Central Limit Theorem is the unofficial ruler of probability theory. Galton captures this perfectly.
+
+<br>
+
+> Check out a demonstration of CLT in python here: [code demo](https://github.com/samuelcampione/central_limit_theorem_demo/blob/main/central_limit_theorem.ipynb).
 
